@@ -28,4 +28,4 @@ This is a part of project for my second year of unviersity, where I've been tryi
 <a name="showcase"></a>
 ## Showcase 
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Perlin-Noise-Map-Generation/blob/master/img/Annotation%202020-07-15%20144027.png)
